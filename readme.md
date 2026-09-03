@@ -2,7 +2,7 @@
 
 A full-stack ML project that predicts the emotion behind a sentence — trained from scratch, served through a FastAPI backend, and exposed through a Streamlit UI, deployed on Render.
 
-**Live demo:** [Add your frontend Render URL here]
+**Live demo:** [https://emotional-frontend-unk9.onrender.com]
 **API:** https://emotional-backend-mson.onrender.com (see `/health` and `/predict`)
 
 > Note: both services run on Render's free tier and sleep after 15 minutes of inactivity — the first request after a period of inactivity can take 30–60 seconds to wake up.
